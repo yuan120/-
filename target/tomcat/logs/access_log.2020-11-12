@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:10:38:31 +0800] "GET / HTTP/1.1" 200 623 http-bio-8088-exec-2 861
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:10:38:32 +0800] "GET /page/top.jsp HTTP/1.1" 200 196 http-bio-8088-exec-3 89
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:10:38:32 +0800] "GET /page/right.jsp HTTP/1.1" 200 258 http-bio-8088-exec-4 103
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:10:38:33 +0800] "GET /sys/getMenuJson.do HTTP/1.1" 200 3013 http-bio-8088-exec-1 552
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:10:38:33 +0800] "GET /css/style.css HTTP/1.1" 200 10044 http-bio-8088-exec-7 4
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:10:38:33 +0800] "GET /csstree/zTreeStyle.css HTTP/1.1" 200 6316 http-bio-8088-exec-6 2
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:10:38:33 +0800] "GET /js/tree.js HTTP/1.1" 200 1618 http-bio-8088-exec-9 3
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:10:38:33 +0800] "GET /js/jquery-1.8.2.js HTTP/1.1" 200 266882 http-bio-8088-exec-8 3
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:10:38:33 +0800] "GET /js/jquery.ztree.all-3.3.js HTTP/1.1" 200 119788 http-bio-8088-exec-10 3
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:10:38:33 +0800] "GET /csstree/img/zTreeStandard.png HTTP/1.1" 200 11173 http-bio-8088-exec-10 3
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:10:38:33 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8088-exec-10 1
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:10:38:37 +0800] "GET /csstree/img/diy/5.png HTTP/1.1" 200 710 http-bio-8088-exec-10 3
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:10:38:38 +0800] "GET /csstree/img/line_conn.gif HTTP/1.1" 200 45 http-bio-8088-exec-10 1

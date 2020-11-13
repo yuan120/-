@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [11/Nov/2020:19:22:51 +0800] "GET /stu_list.html HTTP/1.1" 200 4302 http-bio-8088-exec-1 35
+0:0:0:0:0:0:0:1 - - [11/Nov/2020:19:22:51 +0800] "GET /vuejs/axios-0.18.0.js HTTP/1.1" 200 12948 http-bio-8088-exec-2 3
+0:0:0:0:0:0:0:1 - - [11/Nov/2020:19:22:51 +0800] "GET /vuejs/vuejs-2.5.16.js HTTP/1.1" 200 300248 http-bio-8088-exec-3 5
+0:0:0:0:0:0:0:1 - - [11/Nov/2020:19:22:51 +0800] "GET /stu_list.js HTTP/1.1" 200 4936 http-bio-8088-exec-4 3
+0:0:0:0:0:0:0:1 - - [11/Nov/2020:19:22:51 +0800] "GET /vuejs/axios.min.map HTTP/1.1" 404 989 http-bio-8088-exec-6 3
+0:0:0:0:0:0:0:1 - - [11/Nov/2020:19:22:51 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8088-exec-8 1
+0:0:0:0:0:0:0:1 - - [11/Nov/2020:19:22:51 +0800] "GET /user/getStuAllList.do HTTP/1.1" 200 1662 http-bio-8088-exec-7 259
+0:0:0:0:0:0:0:1 - - [11/Nov/2020:19:22:58 +0800] "POST /user/deleteStudentBatch.do HTTP/1.1" 200 34 http-bio-8088-exec-10 45
+0:0:0:0:0:0:0:1 - - [11/Nov/2020:19:22:58 +0800] "GET /user/getStuAllList.do HTTP/1.1" 200 1372 http-bio-8088-exec-10 11
+0:0:0:0:0:0:0:1 - - [11/Nov/2020:19:23:07 +0800] "POST /user/deleteStudentBatch.do HTTP/1.1" 200 34 http-bio-8088-exec-10 20
+0:0:0:0:0:0:0:1 - - [11/Nov/2020:19:23:07 +0800] "GET /user/getStuAllList.do HTTP/1.1" 200 1147 http-bio-8088-exec-10 7
+0:0:0:0:0:0:0:1 - - [11/Nov/2020:20:54:15 +0800] "GET /user/getGradeList.do HTTP/1.1" 200 150 http-bio-8088-exec-6 102
+0:0:0:0:0:0:0:1 - - [11/Nov/2020:20:54:15 +0800] "GET /user/getCityListById.do?id=1 HTTP/1.1" 200 1189 http-bio-8088-exec-8 110
